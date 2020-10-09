@@ -21,7 +21,7 @@
 .inactive:hover {
   fill: #000;
   cursor: pointer;
-  background:green;
+  background:purple;
 }
 
 /* font size dependent on radius, see app.js */
@@ -32,7 +32,7 @@
 }
 
 .stateCircle {
-  fill: #89bdd3;
+  fill: purple;
   stroke: #e3e3e3;
 }
 
@@ -68,4 +68,11 @@
   .aText {
     font-size: 13px;
   }
+}
+
+
+.article {
+color:white;
+ Background:purple;
+ text-align: justify;
 }

@@ -24,10 +24,10 @@ function loadChart() {
 
   // Define the chart's margins as an object
   var margin = {
-      top: 20,
-      right: 40,
+      top: 2,
+      right: 10,
       bottom: 100,
-      left: 100
+      left: 80
   };
 
   //calculate chart area minus margins

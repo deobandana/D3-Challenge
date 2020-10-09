@@ -6,12 +6,12 @@
 /* Sticky Footer rules (https://getbootstrap.com/examples/sticky-footer/) */
 html {
   position: relative;
-  min-height: 90%;
+  min-height: 50%;
 }
 
 body {
   /* Padding bottom by footer height */
-  padding-bottom: 80px;
+  padding-bottom: 30px;
 }
 
 #footer {
@@ -22,8 +22,8 @@ body {
   padding-top: 20px;
   padding-bottom: 40px;
   text-align: center;
-  background-color: grey;
-  color:red;
+  background-color:cornsilk;
+  color:black;
 }
 
 #footer p {
